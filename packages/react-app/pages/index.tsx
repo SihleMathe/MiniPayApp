@@ -61,7 +61,7 @@ export default function Home() {
     };
 
     return (
-        <div className="mx-auto p-6 bg-gray-100 shadow-lg animate hover:animate-ping">
+        <div className="mx-auto p-6 bg-blue-100 shadow-lg">
             {address ? (
                 <>
                     <div className="grid grid-cols-1 gap-6">
